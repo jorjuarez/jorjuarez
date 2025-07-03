@@ -1,6 +1,6 @@
 # <a href="https://www.linkedin.com/in/jorgejuarez1/">Jorge Juarez</a>'s IT and Cybersecurity Project Portfolio 💻
 
-I'm passionate about cybersecurity and love tackling complex challenges through hands-on projects. From vulnerability management to threat detection, these projects allow me to dive deep into the ever-evolving landscape of cybersecurity. Please feel free to check them out and see the work I’ve put into enhancing security operations and processes!
+My passion is turning cybersecurity theory into practice. This portfolio is a collection of my hands-on work, where I apply my skills to engineer practical solutions from scripting automated fixes for vulnerabilities to developing tools for threat analysis. Feel free to explore my work!
 
 
 ## 🛡 Vulnerability Management Projects
