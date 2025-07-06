@@ -6,7 +6,8 @@ My passion is turning cybersecurity theory into practice. This portfolio is a c
 ## 🛡 Vulnerability Management Projects
 
 - **[Vulnerability Management Program Implementation](https://github.com/jorjuarez/vuln-mgmt-impl )**
-- **[Programmatic Vulnerability Remediations (PowerShell and BASH)](https://github.com/joshcybertest/programmatic-vulnerability-remediations)**
+- **[Programmatic Vulnerability Remediations (PowerShell and BASH)]**
+[//]: # (https://github.com/joshcybertest/programmatic-vulnerability-remediations)
 - **[Automated DISA STIG Hardening with PowerShell](https://github.com/jorjuarez/PowerShell-STIG-Automation)**
 
 ## 🕵️‍♂️🚨 Threat Hunting and Security Operations
