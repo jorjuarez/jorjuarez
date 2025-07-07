@@ -10,6 +10,7 @@ My passion is turning cybersecurity theory into practice. This portfolio is a c
 
 [//]: # (https://github.com/joshcybertest/programmatic-vulnerability-remediations)
 - **[Automated DISA STIG Hardening with PowerShell](https://github.com/jorjuarez/PowerShell-STIG-Automation)**
+- **[The Critical Value of Authenticated Scanning](#case-study-the-critical-value-of-authenticated-scanning)**
 
 ## 🕵️‍♂️🚨 Threat Hunting and Security Operations
 
