@@ -19,6 +19,7 @@ My passion is turning cybersecurity theory into practice. This portfolio is a c
 ## 🕵️‍♂️🚨 Threat Hunting and Security Operations
 
 - **[Threat Hunting Scenario (Tor Browser Usage)](https://github.com/jorjuarez/threat-hunting-scenario-tor)**
+- **[Threat Hunting Scenario (Sudden Network Slowdowns)**
 
 <hr/>
 
