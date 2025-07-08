@@ -14,7 +14,7 @@ My passion is turning cybersecurity theory into practice. This portfolio is a c
 - **[The Value of Authenticated Scanning](https://github.com/jorjuarez/authenticated-and-unauthenticated-scanning)**
 
 ## 🐧 Linux & System Hardening
-- **[A Practical Guide to Linux File Permissions](URL_to_your_new_repository_or_file)**
+- **[A Practical Guide to Linux File Permissions](https://github.com/jorjuarez/Linux-file-permission)**
 
 ## 🕵️‍♂️🚨 Threat Hunting and Security Operations
 
