@@ -13,6 +13,9 @@ My passion is turning cybersecurity theory into practice. This portfolio is a c
 - **[Automated DISA STIG Hardening with PowerShell](https://github.com/jorjuarez/PowerShell-STIG-Automation)**
 - **[The Value of Authenticated Scanning](https://github.com/jorjuarez/authenticated-and-unauthenticated-scanning)**
 
+## 🐧 Linux & System Hardening
+- **[A Practical Guide to Linux File Permissions](URL_to_your_new_repository_or_file)**
+
 ## 🕵️‍♂️🚨 Threat Hunting and Security Operations
 
 - **[Threat Hunting Scenario (Tor Browser Usage)](https://github.com/jorjuarez/threat-hunting-scenario-tor)**
