@@ -21,7 +21,7 @@ My passion is turning cybersecurity theory into practice. This portfolio is a c
 - **[Threat Hunting Scenario (Tor Browser Usage)](https://github.com/jorjuarez/threat-hunting-scenario-tor)**
 - **[Threat Hunting Scenario (Sudden Network Slowdowns)](https://github.com/jorjuarez/sudden-network-slowdown)**
 - **[SIEM Detection & Incident Response (Invoke-WebRequest)](https://github.com/jorjuarez/Sentinel-Detection-Engineering/blob/main/README.md)**
-- **[Sentinel Impossible Travel Detection] (Link-in-github)**
+- **[Sentinel Impossible Travel Detection](https://github.com/jorjuarez/Sentinel-Impossible-Travel-Detection/tree/main)**
 
 <hr/>
 
