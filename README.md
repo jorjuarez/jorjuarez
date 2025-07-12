@@ -23,6 +23,7 @@ My passion is turning cybersecurity theory into practice. This portfolio is a c
 - **[SIEM Detection & Incident Response (Invoke-WebRequest)](https://github.com/jorjuarez/Sentinel-Detection-Engineering/blob/main/README.md)**
 - **[Sentinel Impossible Travel Detection](https://github.com/jorjuarez/Sentinel-Impossible-Travel-Detection/tree/main)**
 - **[Threat Hunting Scenario (Detecting Data Exfiltration with Microsoft Sentinel)](https://github.com/jorjuarez/Data-Exfiltration-Hunt)**
+- **[Threat Hunt: Ransomware (PwnCrypt)](link)**
 
 <hr/>
 
