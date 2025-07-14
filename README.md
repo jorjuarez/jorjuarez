@@ -8,7 +8,7 @@ My passion is turning cybersecurity theory into practice. This portfolio is a c
 - **[Automated DISA STIG Hardening with PowerShell(WN10-AU-000500)](https://github.com/jorjuarez/PowerShell-STIG-Automation)**
 - **[Automated DISA STIG Hardening with PowerShell(WN10-00-000155)](https://github.com/jorjuarez/Automated-DISA-STIG-Hardening-with-PowerShell-WN10-00-000155)**
 - **[Automated DISA STIG Hardening with PowerShell(WN10-CC-000038)](https://github.com/jorjuarez/DISA-STIG-Hardening-with-PowerShell-WN10-CC-000038)**
-- **[Automated DISA STIG Hardening with PowerShell(WN10-SO-000005)](link)**
+- **[Automated DISA STIG Hardening with PowerShell(WN10-SO-000005)](https://github.com/jorjuarez/DISA-STIG-Hardening-with-PowerShell-WN10-SO-000005)**
 - **[The Value of Authenticated Scanning](https://github.com/jorjuarez/authenticated-and-unauthenticated-scanning)**
 
 ## 🐧 Linux & System Hardening
