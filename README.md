@@ -10,7 +10,7 @@ My passion is turning cybersecurity theory into practice. This portfolio is a c
 ## 🛡 Vulnerability Management Projects
 
 - **[Vulnerability Management Program Implementation](https://github.com/jorjuarez/vuln-mgmt-impl )**
-- **[Automated DISA STIG Hardening with PowerShell](https://github.com/jorjuarez/PowerShell-STIG-Automation)**
+- **[Automated DISA STIG Hardening with PowerShell(WN10-AU-000500)](https://github.com/jorjuarez/PowerShell-STIG-Automation)**
 - **[The Value of Authenticated Scanning](https://github.com/jorjuarez/authenticated-and-unauthenticated-scanning)**
 
 ## 🐧 Linux & System Hardening
