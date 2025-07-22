@@ -39,15 +39,8 @@ My passion is turning cybersecurity theory into practice. This portfolio is a c
 
 ---
 
-## 🤝Connect With Me
+## 🤝 Connect With Me
 
-
-[<img align="left" alt="___________ | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-
-
-[linkedin]: https://linkedin.com/in/jorgejuarez1
-
-<!--
-<img width="35" alt="image" src="https://github.com/user-attachments/assets/2f41c7cd-5ea8-4475-b451-a37161b6c3fb"> 
-<img width="35" alt="image" src="https://github.com/user-attachments/assets/77649969-9910-4994-8b96-74a116cfb2a8">
--->
+<p align="left">
+  <a href="https://linkedin.com/in/jorgejuarez1" target="blank" style="text-decoration:none; border:none;"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Jorge Juarez LinkedIn"></a><a href="https://github.com/jorjuarez" target="blank" style="text-decoration:none; border:none;"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="Jorge Juarez GitHub"></a>
+</p>
